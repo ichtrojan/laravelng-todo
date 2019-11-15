@@ -15,4 +15,3 @@ yarn-error.log
 .composer.lock
 /.history
 package-lock.json
-composer.lock
